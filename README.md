@@ -5,9 +5,9 @@
 <br>
 
 <p align='center'>
-<a href='http://twosix.me/cheatsheets/'><img src='_docs/images/screenshot.png' width=600></a>
+<a href='http://twosix.me/'><img src='_docs/images/screenshot.png' width=600></a>
 <br>
-✨ <b><a href='http://twosix.me/cheatsheets/'>twosix.me</a></b> ✨
+✨ <b><a href='http://twosix.me/'>twosix.me</a></b> ✨
 </p>
 
 <br>
